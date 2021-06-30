@@ -7,5 +7,11 @@ def sub():
     pass
 
 
+def mul():
+    print("in mul Fun")
+    pass
+
+
 add()
 sub()
+mul()
